@@ -1,0 +1,153 @@
+10
+
+dir
+52623
+http://svn.kolmisoft.com/mor/install_script/trunk
+http://svn.kolmisoft.com
+
+
+
+2014-09-23T13:42:47.518038Z
+52613
+svnuser
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19941b1f-7a74-413c-ab52-0de3e92e9a87
+
+test
+dir
+
+install.sh
+file
+
+
+
+
+2014-09-19T10:28:56.864981Z
+1ec4e43d35ef3797ff07f791d29b8e1b
+2013-11-26T13:27:23.634690Z
+42417
+mindaugasm
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24895
+
+sh_scripts
+dir
+
+apache2-fastcgi
+dir
+
+gui
+dir
+
+db
+dir
+
+VERSION
+file
+
+
+
+
+2014-09-19T10:28:56.864981Z
+45c48cce2e2d7fbdea1afc51c7c6ad26
+2010-06-30T10:46:01.235324Z
+6929
+svnuser
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+apache2-conf
+dir
+
+upgrade
+dir
+
+patches
+dir
+
+scripts
+dir
+
+asterisk-addons
+dir
+
+centos
+dir
+
+x5
+dir
+
+x6
+dir
+
+mor_app
+dir
+
+agi
+dir
+
+mor_ad
+dir
+
+ami
+dir
+
+fax2email
+dir
+
+asterisk-conf
+dir
+

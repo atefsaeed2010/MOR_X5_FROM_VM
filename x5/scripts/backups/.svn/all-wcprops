@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/50916/mor/install_script/trunk/x5/scripts/backups
+END
+backup_create.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/50916/mor/install_script/trunk/x5/scripts/backups/backup_create.sh
+END
+backup_restore.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/50916/mor/install_script/trunk/x5/scripts/backups/backup_restore.sh
+END
